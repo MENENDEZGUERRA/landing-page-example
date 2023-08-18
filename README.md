@@ -1,4 +1,4 @@
-# landing-page-example
+# Landing Page Example
 Repository created as an exercise for the Odin Project. 
 Landing page using HTML and CSS to practice flexbox.
 
