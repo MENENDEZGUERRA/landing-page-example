@@ -154,3 +154,48 @@ h2 {
     font-size: 25px;
     color: #1F2937;
 }
+
+/*--- CTA Section ---*/
+.cta-card{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 8px;
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 20px;
+}
+
+.cta-button-container {
+    display: flex;
+    align-items: center;
+}
+
+.cta-text-container {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.cta-text {
+    margin: 0;
+}
+
+.cta-sub-text {
+    margin: 2px;
+}
+
+.cta-button {
+    border: 0;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 20px;
+    text-align: center;
+    border: 2px #F9FAF8 solid;
+    border-radius: 8px;
+    width: 150px;
+    height: 30px;
+}
